@@ -1,2 +1,4 @@
-# konselbim
-aplikasi Bimbingan Konseling , fitur utama, panduan penggunaan, dan panduan menjalankan aplikasi
+# KonselBim
+aplikasi Bimbingan Konseling , 
+Penjadwalan , History penjadawaln pada bimbingan konseling
+
